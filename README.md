@@ -56,9 +56,6 @@ Type Tool: TypesHelper. cs (Type Judgment and Conversion).
 Verification tool: VerifiyHelper.cs (Data Verification Logic).
 ### 6. Logging tool (Logger)
 Function: Unified logging interface, supporting multiple logging frameworks such as NLog and Serilog.
-Core category:
-ILog4NetHelper.cs/Log4NetHelper.cs: Log4Net wrapper.
-LogHelper.cs: General log interface.
  
 ## Installation
  
